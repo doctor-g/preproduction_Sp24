@@ -123,7 +123,40 @@ are that the most charitable one is correct.
 
 ## Evaluation and Grades
 
-TBD (Variation on specs grading)
+
+<table>
+<tr>
+<th>Grade</th><th>Participation</th><th>Excercises</th><th>Completion</th><th>Final Exam</th></tr>
+</tr>
+<tr>
+<th>A</th>
+<td>Miss no more than two</td>
+<td>Miss no more than one</td>
+<td>All components are satisfactory</td>
+<td>Satisfactory</td>
+</tr>
+<tr>
+<th>B</th>
+<td>Miss no more than four</td>
+<td>Miss no more than two</td>
+<td>All components are satisfactory</td>
+<td>Satisfactory</td>
+</tr>
+<tr>
+<th>C</th>
+<td>Miss no more than six</td>
+<td>Miss no more than three</td>
+<td>All but one component are satisfactory</td>
+<td>Satisfactory</td>
+</tr>
+<tr>
+<th>D</th>
+<td>Miss no more than eight</td>
+<td>Miss no more than four</td>
+<td>All components are submitted</td>
+<td>Unsatisfactory</td>
+</tr>
+</table>
 
 ## Miscellany
 
