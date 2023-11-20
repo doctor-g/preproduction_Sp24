@@ -123,6 +123,11 @@ are that the most charitable one is correct.
 
 ## Evaluation and Grades
 
+Your final grade is determined by your engagement with four aspects of the
+course according to the following table. Your letter grade in the course is the
+minimum row for which you have satisfied all of the criteria, and a student who
+does not meet the criteria for a D receives an F. Each column is explained in
+turn below.
 
 <table>
 <tr>
@@ -157,6 +162,46 @@ are that the most charitable one is correct.
 <td>Unsatisfactory</td>
 </tr>
 </table>
+
+### Participation
+
+Each meeting is an opportunity to participate in our learning community.
+Satisfactory participation means that you have brought any materials
+required for the day and that you have engaged in productive studio time.
+
+Each student gets two _Save Points_ that you can turn in to earn participation
+credit for a day that you missed or for which you were unprepared.
+Activate these Save Points by emailing your instructor.
+
+Full participation also requires that you are ready to begin work
+at the start of the meeting and stay attentive throughout.
+This requires being present in the studio early enough to get situated
+and exchange pleasantries with your comrades. 
+Recognize that being late to a meeting, leaving early from one, or
+otherwise causing disruption is an impediment to your and your classmates' learning. 
+You may remedy tardiness or early departure by compensating the class
+through the Treat Board. That is, you can demonstrate your apology by 
+bringing treats. Uncompensated distruptions indicate a lack of full participation.
+
+### Exercises
+
+The semester will include many exercises that will help you understand game
+preproduction, especially in the first several weeks of the semester, during
+ideation. Sometimes these exercises are started in the studio, but most or all
+will require using your out-of-studio time for independent completion.
+
+### Completion
+
+Your final deliverables of the semester include the game design macro, the
+schedule, the oral pitch, and the vertical slice. The specification for
+satisfactory completion of each of these will be provided closer to their
+deadline.
+
+### Final Exam
+
+The final exam will be given as scheduled by the university.
+Our final will be from noon to 2&nbsp;P.M. on the Tuesday of finals week.
+
 
 ## Miscellany
 
