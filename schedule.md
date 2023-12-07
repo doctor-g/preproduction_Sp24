@@ -120,4 +120,115 @@ form is a crucial skill for aspiring game designers to develop.
 - Team formation around prototypes
 - Start drafting experience and design goals
 
-## Thursday
+## Thursday, Feb 15
+### Prepare
+- Complete the experience and design goals for the project
+### Meeting
+- Present and critique experience and design goals
+- Discuss expectations for the vertical slice
+
+## Tuesday, Feb 20
+### Prepare
+- Read Lemarchand 9&ndash;14 
+    - What is a Vertical Slice?
+    - Making the Vertical Slice (~12 pages)
+    - Playtesting (~15 pages)
+    - Concentric Development (~14 pages)
+    - Summary (~2 pages)
+- Make a poster summarizing one or two of the most important points from the reading
+### Meeting
+- Present posters to discuss vertical slice
+- Identify core loop, character, camera, and control for each project
+- Commence concentric development
+
+## Thursday, Feb 22
+### Prepare
+- Read Lemarchand 16&ndash;18 and optionally 15
+    - Against Crunch (~4 pages, optional)
+    - Story Structure for Game Designers (~10 pages)
+    - Game Design Macro (~16 pages)
+    - Writing a Game Design Macro Chart (~13 pages)
+- Prepare a poster about one of the following:
+    - One or more key points about the macro chart
+    - Summary of your hopes and fears for the project based on the readings
+### Meeting
+- Present posters
+- Discuss scheduling and preproduction expectations
+- Continue preproduction
+
+## Tuesday, March 12
+### Meeting
+- Introduction to Stand-Up Meetings
+- Project work session
+
+## Thursday, March 14
+### Meeting
+- Project work session
+
+## Tuesday, March 19
+### Prepare
+- A brief status report for the whole studio
+### Meeting
+- Present your status report
+- Project work session
+
+## Thursday, March 21
+### Meeting
+- Project work session
+
+## Tuesday, March 26
+### Prepare
+- A brief status report for the whole studio
+### Meeting
+- Present your status report
+- Project work session
+
+## Thursday, March 28
+### Meeting
+- Project work session
+
+## Tuesday, April 2
+### Prepare
+- Review multiple pitch decks from the [Video Game Founder's Kit](https://heyglitch.notion.site/Public-Founder-s-Kit-959c43975b76400cb4d31452ea1ee08a). Conduct a genre
+analysis: consider carefully what is shown in these decks, how it is shown, and why.
+Prepare a poster with your findings.
+### Meeting
+- Present and discuss genre analysis
+- Project work session
+
+## Thursday, April 4
+### Prepare
+- A draft macro presentation
+- Submit your draft macro chart for formal evaluation
+### Meeting
+- Present draft macro charts
+
+## Tuesday, April 9
+### Prepare
+- A draft schedule presentation
+- Submit your draft schedule for formal evaluation
+### Meeting
+- Present draft schedules
+
+## Thursday, April 11
+### Meeting
+- Project work session
+
+## Tuesday, April 16
+### Meeting
+- Project work session
+
+## Thursday, April 18
+### Prepare
+- Submit your final vertical slice, game design macro, and schedule
+- Finalize your presentation
+### Meeting
+- Practice presentations
+
+## Tuesday, April 23
+### Meeting
+- Present your pitches to the Games Advisory Board
+
+## Thursday, April 25
+### Meeting
+- Debrief and discussion
