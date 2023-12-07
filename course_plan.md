@@ -193,9 +193,9 @@ will require using your out-of-studio time for independent completion.
 ### Completion
 
 Your final deliverables of the semester include the game design macro, the
-schedule, the oral pitch, and the vertical slice. The specification for
-satisfactory completion of each of these will be provided closer to their
-deadline.
+schedule, the vertical slice, and the pitch presentation to the Games Advisory
+Board. The specification for satisfactory completion of each of these will be
+provided closer to their deadline.
 
 ### Final Exam
 
