@@ -31,8 +31,8 @@ This is the first course in a three-course capstone experience for students in
 the Game Design & Development Concentration. At the end of the class, you and
 your teammates will pitch a game to a board of industry professionals. This
 pitch will consist of a vertical slice, a game design macro, and a schedule.
-Those projects that are approved by the board will be undertaken by teams for
-production in the production sequence next academic year and publicly released.
+Projects approved by the board will be moved into production next academic year,
+at the end of which time, they will be published to Steam.
 
 ## Commitment
 
