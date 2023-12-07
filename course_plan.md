@@ -131,7 +131,7 @@ turn below.
 
 <table>
 <tr>
-<th>Grade</th><th>Participation</th><th>Excercises</th><th>Completion</th><th>Final Exam</th></tr>
+<th>Grade</th><th>Participation</th><th>Exercises</th><th>Completion</th><th>Final Exam</th></tr>
 </tr>
 <tr>
 <th>A</th>
