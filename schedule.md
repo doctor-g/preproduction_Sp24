@@ -1,5 +1,30 @@
 # Preproduction Schedule
 
+## General Instructions
+
+This page contains the projected schedule for the semester. Alterations to the
+schedule will be discussed or announced in a meeting or via Canvas.
+
+Many of your individual explorations will be presented in the form of a _poster_.
+A subset of posters that are brought into a meeting will be selected for presentation
+and discussion.
+For our purposes, the poster is an artifact that represents your understanding.
+The poster must be on at least letter-size paper, although you may make larger
+ones as you see fit. The posters are _intermediary work products_. That means that
+they are something we make in order to an express an idea, and that learning from
+the valuable part, and then they will be thrown away. Put another way, don't spend
+money on your posters. That said, a good poster will be clearly composed and not something
+one whips up five minutes before a meeting.
+
+The contents must be clearly visible by our community while
+the poster is presented. This has important implications for its composition.
+Text must be very large, clear visuals are helpful, and colors may be useful for
+emphasis. Keep in mind that the goal of the poster is to represent your understanding.
+Make that part as clear as possible. 
+
+Lest it go unnoticed, the ability to take a concept and express it in simple visual
+form is a crucial skill for aspiring game designers to develop. 
+
 ## Tuesday, Jan 9
 ### Meeting
 - Introduction to the class
