@@ -8,6 +8,9 @@ Game Preproduction, Spring 2024, at Ball State University.
 ## Course Information
 
 TODO: Copy in CS and ART course info here
+
+- CS390 Information goes here
+
 <!-- 
 - **Meetings**: MWF 9:00&mdash;10:50 in the new Game Design & Development Studio Space (RB3??)
 - **Instructor**: [Paul Gestwicki, Ph.D.](https://www.cs.bsu.edu/~pvgestwicki)
