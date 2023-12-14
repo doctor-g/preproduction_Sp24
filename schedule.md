@@ -5,6 +5,8 @@
 This page contains the projected schedule for the semester. Alterations to the
 schedule will be discussed or announced in a meeting or via Canvas.
 
+### Posters
+
 Many of your individual explorations will be presented in the form of a _poster_.
 A subset of posters that are brought into a meeting will be selected for presentation
 and discussion.
@@ -24,6 +26,22 @@ Make that part as clear as possible.
 
 Lest it go unnoticed, the ability to take a concept and express it in simple visual
 form is a crucial skill for aspiring game designers to develop. 
+
+### File Formats
+
+All work that is submitted for evaluation must be in [open file
+formats](https://en.wikipedia.org/wiki/Open_file_format) that do not require
+proprietary software to reliably open. Here is a quick guide for those
+to whom this is a new practice.
+
+- Images should be in PNG or JPG
+- Textual work whose format is irrelevant should be in plain text (.TXT, .MD) 
+  or ODT
+- Multimodal work, or composed work where layout is crucial, should be in PDF
+
+Note that most Adobe and Microsoft Office formats are specifically excluded
+from the recommendations.
+
 
 ## Tuesday, Jan 9
 ### Meeting
