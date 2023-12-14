@@ -184,7 +184,7 @@ Recognize that being late to a meeting, leaving early from one, or
 otherwise causing disruption is an impediment to your and your classmates' learning. 
 You may remedy tardiness or early departure by compensating the class
 through the Treat Board. That is, you can demonstrate your apology by 
-bringing treats. Uncompensated distruptions indicate a lack of full participation.
+bringing treats. Uncompensated disruptions indicate a lack of full participation.
 
 ### Exercises
 
