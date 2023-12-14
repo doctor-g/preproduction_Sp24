@@ -7,21 +7,20 @@ Game Preproduction, Spring 2024, at Ball State University.
 
 ## Course Information
 
-TODO: Copy in CS and ART course info here
-
-- CS390 Information goes here
-
-<!-- 
-- **Meetings**: MWF 9:00&mdash;10:50 in the new Game Design & Development Studio Space (RB3??)
-- **Instructor**: [Paul Gestwicki, Ph.D.](https://www.cs.bsu.edu/~pvgestwicki)
-- **Office Location**: RB479
-- **Drop-In Hours**: Posted on [my website](https://www.cs.bsu.edu/~pvgestwicki)
-- **Appointments outside of drop-in hours**: Taken via email or Slack
--->
+- **Meetings**: Tuesday and Thursday, 12:30&ndash;3:15 in RB353
+- **Instructors**: 
+    - [Paul Gestwicki](https://www.cs.bsu.edu/~pvgestwicki) (Office: RB479, see website for drop-in hours)
+    - [Antonio Sanders](https://www.bsu.edu/academics/collegesanddepartments/art/about-us/faculty-and-staff/faculty/sandersantonio) (Office: AJ401, drop-in hours TBD)
 - **Required Text**: Richard Lemarchand. _A Playful Production Process_. MIT Press. 2021.
 - **Prerequisite**: 
   - For CS390: CS215 or CS315 (CS315 is strongly recommended)
 
+This is the first course in a three-course capstone experience for students in
+the Game Design & Development Concentration. At the end of the class, you and
+your teammates will pitch a game to a board of industry professionals. This
+pitch will consist of a vertical slice, a game design macro, and a schedule.
+Projects approved by the board will be moved into production next academic year,
+at the end of which time, they will be published to Steam.
 
 The catalog description for CS390 follows:
 
@@ -30,12 +29,8 @@ The catalog description for CS390 follows:
 > prototype videogame ideas in order to discover practicable concepts. Form
 > multidisciplinary teams to build a publicly showcased vertical slice.
 
-This is the first course in a three-course capstone experience for students in
-the Game Design & Development Concentration. At the end of the class, you and
-your teammates will pitch a game to a board of industry professionals. This
-pitch will consist of a vertical slice, a game design macro, and a schedule.
-Projects approved by the board will be moved into production next academic year,
-at the end of which time, they will be published to Steam.
+
+
 
 ## Commitment
 
@@ -75,26 +70,23 @@ for April 23.
 
 Refer to [the schedule page](schedule.md) for all the details.
 
-Following university policy, expect a meeting during our scheduled final exam period.
-
 ## Decorum
 
 Your learning is commensurate to your participation, and so attendance is
 expected. You are responsible for your learning regardless of attendance. If you
-miss a class meeting, you should consult with trusted classmates to ensure you
+miss a meeting, you should consult with trusted classmates to ensure you
 are caught up.
 
 We will begin our meetings on time, which means you should arrive a few minutes
 beforehand. This gives you adequate time to get situated and exchange greetings
-with your classmates. Recognize that it is inconsiderate to miss or be late to a
+with your colleagues. Recognize that it is inconsiderate to miss or be late to a
 meeting. Should you be in a position where tardiness or absence is inevitable,
 consider bringing treats to a future meeting by way of apology: your classmates
 will not forget this show of respect.
 
 Stow your phone in silent mode for the duration of meetings. If you anticipate
 receipt of a communiqué so critical as to merit interrupting a meeting, it is
-certainly better not to be in that meeting at all. Remember that online meetings
-are meetings, too.
+certainly better not to be in that meeting at all.
 
 If we are not actively using laptops in a class activity, stow those as well.
 When we are using laptops for an activity, shut down your social networking and
