@@ -129,76 +129,80 @@ are that the most charitable one is correct.
 Your final grade is determined by your engagement with four aspects of the
 course according to the following table. Your letter grade in the course is the
 minimum row for which you have satisfied all of the criteria, and a student who
-does not meet the criteria for a D receives an F. Each column is explained in
-turn below.
+does not meet the criteria for a D receives an F.
 
 <table>
 <tr>
-<th>Grade</th><th>Participation</th><th>Exercises</th><th>Completion</th><th>Final Exam</th></tr>
+<th>Grade</th>
+<th>Participation and Deadlines</th>
+<th>Exercises</th>
+<th>Completion</th>
+<th>Final Exam</th></tr>
 </tr>
 <tr>
 <th>A</th>
 <td>Miss no more than two</td>
-<td>Miss no more than one</td>
-<td>All components are satisfactory</td>
+<td>Complete all exercises</td>
+<td>All draft and final elements are satisfactory</td>
 <td>Satisfactory</td>
 </tr>
 <tr>
 <th>B</th>
 <td>Miss no more than four</td>
-<td>Miss no more than two</td>
-<td>All components are satisfactory</td>
+<td>Miss no more than one</td>
+<td>All but one draft or final element are satisfactory</td>
 <td>Satisfactory</td>
 </tr>
 <tr>
 <th>C</th>
 <td>Miss no more than six</td>
-<td>Miss no more than three</td>
-<td>All but one component are satisfactory</td>
+<td>Miss no more than two</td>
+<td>All but two draft or final elements are satisfactory</td>
 <td>Satisfactory</td>
 </tr>
 <tr>
 <th>D</th>
 <td>Miss no more than eight</td>
 <td>Miss no more than four</td>
-<td>All components are submitted</td>
+<td>All final elements are submitted on time</td>
 <td>Unsatisfactory</td>
 </tr>
 </table>
 
-### Participation
+### Participation and Deadlines
 
-Each meeting is an opportunity to participate in our learning community.
+Each meeting is an opportunity to learn together.
 Satisfactory participation means that you have brought any materials
 required for the day and that you have engaged in productive studio time.
-
-Each student gets two _Save Points_ that you can turn in to earn participation
-credit for a day that you missed or for which you were unprepared.
-Activate these Save Points by emailing your instructor.
 
 Full participation also requires that you are ready to begin work
 at the start of the meeting and stay attentive throughout.
 This requires being present in the studio early enough to get situated
-and exchange pleasantries with your comrades. 
+and exchange pleasantries with your colleagues. 
 Recognize that being late to a meeting, leaving early from one, or
-otherwise causing disruption is an impediment to your and your classmates' learning. 
-You may remedy tardiness or early departure by compensating the class
-through the Treat Board. That is, you can demonstrate your apology by 
-bringing treats. Uncompensated disruptions indicate a lack of full participation.
+otherwise causing disruption is an impediment to your and your classmates' learning.
 
 ### Exercises
 
 The semester will include many exercises that will help you understand game
-preproduction, especially in the first several weeks of the semester, during
-ideation. Sometimes these exercises are started in the studio, but most or all
+preproduction, especially during ideation in the first several weeks of the semester. Sometimes, work on these exercises starts in the studio, but most or all
 will require using your out-of-studio time for independent completion.
+
+Learning from these exercises is a crucial part of our process, and so we are
+adopting a &ldquo;mastery learning&rdquo; evaluation process for your
+submissions. That is, you may resubmit your exercises as many times as necessary
+to demonstrate satisfactory understanding. In order to keep students and faculty
+from falling behind on our respective responsibilities, you are limited to one
+exercise resubmission per week, with the start of the week measured from 12:30
+on Tuesdays&mdash;our first meeting of each week.
+
 
 ### Completion
 
 Your final deliverables of the semester include the game design macro, the
 schedule, the vertical slice, and the pitch presentation to the Games Advisory
-Board. The specification for satisfactory completion of each of these will be
-provided closer to their deadline.
+Board. Each of these will be satisfactory if they are completed on time and meet
+the criteria established in the text.
 
 ### Final Exam
 
