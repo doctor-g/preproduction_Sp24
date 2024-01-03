@@ -14,13 +14,14 @@ Game Preproduction, Spring 2024, at Ball State University.
 - **Required Text**: Richard Lemarchand. _A Playful Production Process_. MIT Press. 2021.
 - **Prerequisite**: 
   - For CS390: CS215 or CS315 (CS315 is strongly recommended)
+  - For ART411: Your advisor will check this during the curriculum transition
 
 This is the first course in a three-course capstone experience for students in
-the Game Design & Development Concentration. At the end of the class, you and
+the Game Design & Development Concentration. At the end of this first class, you and
 your teammates will pitch a game to a board of industry professionals. This
 pitch will consist of a vertical slice, a game design macro, and a schedule.
-Projects approved by the board will be moved into production next academic year,
-at the end of which time, they will be published to Steam.
+Projects approved by the board will be moved into production next academic year.
+At the end of production, they will be published to Steam.
 
 The catalog description for CS390 follows:
 
@@ -29,7 +30,13 @@ The catalog description for CS390 follows:
 > prototype videogame ideas in order to discover practicable concepts. Form
 > multidisciplinary teams to build a publicly showcased vertical slice.
 
+The catalog description for ART411 was written for the traditional film
+concentration. The spirit of it is shared in this semester, although the specifics
+of game preproduction are not yet described in the catalog.
 
+> Introduces a variety of artistic development solutions to facilitate
+> large-scale project creation. Focuses on problem-solving, research,
+> organization, digital printing, and workflow. 
 
 
 ## Commitment
