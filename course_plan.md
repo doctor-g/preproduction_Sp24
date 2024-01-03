@@ -33,7 +33,7 @@ The catalog description for CS390 follows:
 The catalog description for ART4440 follows:
 
 > This course will focus on team-based game design from conceptualization,
-> design documentation, > planning, prototyping of games.
+> design documentation, planning, prototyping of games.
 
 
 ## Commitment
