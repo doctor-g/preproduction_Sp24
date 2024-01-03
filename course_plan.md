@@ -179,7 +179,7 @@ at the start of the meeting and stay attentive throughout.
 This requires being present in the studio early enough to get situated
 and exchange pleasantries with your colleagues. 
 Recognize that being late to a meeting, leaving early from one, or
-otherwise causing disruption is an impediment to your and your classmates' learning.
+otherwise causing disruption impedes your learning as well as your classmates'.
 
 ### Exercises
 
