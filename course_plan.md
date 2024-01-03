@@ -127,8 +127,11 @@ are that the most charitable one is correct.
 
 Your final grade is determined by your engagement with four aspects of the
 course according to the following table. Your letter grade in the course is the
-minimum row for which you have satisfied all of the criteria, and a student who
-does not meet the criteria for a D receives an F.
+highest row for which you have satisfied all of the criteria, and a student who
+does not meet the criteria for a "D" receives an "F".
+For example, if you meet all of the criteria in the "A" row except for one, 
+and you have earned the "B" level in that category, then your course grade is
+a "B". 
 
 <table>
 <tr>
@@ -136,13 +139,15 @@ does not meet the criteria for a D receives an F.
 <th>Participation and Deadlines</th>
 <th>Exercises</th>
 <th>Completion</th>
-<th>Final Exam</th></tr>
+<th>Peer Evaluation</th>
+<th>Final Exam</th>
 </tr>
 <tr>
 <th>A</th>
 <td>Miss no more than two</td>
 <td>Complete all exercises</td>
 <td>All draft and final elements are satisfactory</td>
+<td>All Satisfactory</td>
 <td>Satisfactory</td>
 </tr>
 <tr>
@@ -150,6 +155,7 @@ does not meet the criteria for a D receives an F.
 <td>Miss no more than four</td>
 <td>Miss no more than one</td>
 <td>All but one draft or final element are satisfactory</td>
+<td>At most one unsatisfactory</td>
 <td>Satisfactory</td>
 </tr>
 <tr>
@@ -157,6 +163,7 @@ does not meet the criteria for a D receives an F.
 <td>Miss no more than six</td>
 <td>Miss no more than two</td>
 <td>All but two draft or final elements are satisfactory</td>
+<td>Final peer evaluation is satisfactory</td>
 <td>Satisfactory</td>
 </tr>
 <tr>
@@ -164,9 +171,15 @@ does not meet the criteria for a D receives an F.
 <td>Miss no more than eight</td>
 <td>Miss no more than four</td>
 <td>All final elements are submitted on time</td>
+<td>All other cases</td>
 <td>Unsatisfactory</td>
 </tr>
 </table>
+
+At the end of the semester, instructors may use partial fulfillment of rows to
+assign +/- grades. Don't let a failure in one column lead you to abandon work in
+another.
+
 
 Canvas fails to support alternative grading schemes. 
 Only use the information presented here to reflect on your
