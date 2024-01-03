@@ -16,7 +16,7 @@ ones as you see fit. The posters are _intermediary work products_. That means th
 they are something we make in order to an express an idea, and that learning from
 the valuable part, and then they will be thrown away. Put another way, don't spend
 money on your posters. That said, a good poster will be clearly composed and not something
-one whips up five minutes before a meeting.
+thrown together five minutes before a meeting.
 
 The contents must be clearly visible by our community while
 the poster is presented. This has important implications for its composition.
@@ -25,7 +25,7 @@ emphasis. Keep in mind that the goal of the poster is to represent your understa
 Make that part as clear as possible. 
 
 Lest it go unnoticed, the ability to take a concept and express it in simple visual
-form is a crucial skill for aspiring game designers to develop. 
+form is a crucial skill for aspiring game designers. 
 
 ### File Formats
 
