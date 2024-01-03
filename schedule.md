@@ -160,6 +160,8 @@ from the recommendations.
 ### Meeting
 - Present and critique experience and design goals
 - Discuss expectations for the vertical slice
+- Continue preproduction
+
 
 ## Tuesday, Feb 20
 ### Prepare
@@ -173,7 +175,8 @@ from the recommendations.
 ### Meeting
 - Present posters to discuss vertical slice
 - Identify core loop, character, camera, and control for each project
-- Commence concentric development
+- Continue preproduction
+
 
 ## Thursday, Feb 22
 ### Prepare
@@ -182,17 +185,34 @@ from the recommendations.
     - Story Structure for Game Designers (~10 pages)
     - Game Design Macro (~16 pages)
     - Writing a Game Design Macro Chart (~13 pages)
-- Prepare a poster about one of the following:
-    - One or more key points about the macro chart
-    - Summary of your hopes and fears for the project based on the readings
+- Prepare a poster expressing one or more key points about the macro chart
 ### Meeting
 - Present posters
 - Discuss scheduling and preproduction expectations
 - Continue preproduction
 
+
+## Tuesday, Feb 27
+### Prepare
+- Read Lemarchand 19&ndash;21
+    - Scheduling (~16 pages, you may skip the section about burndown charts)
+    - Milestone Reviews (~12 pages)
+    - The Challenge of Preproduction (~5 pages)
+- Prepare a poster about your hopes and fears regarding preproduction
+### Meeting
+- Present posters
+- Introduction to Stand-Up Meetings
+- Continue preproduction
+
+## Thursday, Feb 29
+### Meeting
+- Project work session
+
+## Spring Break: March 4&ndash;8
+No studio meetings during Spring Break.
+
 ## Tuesday, March 12
 ### Meeting
-- Introduction to Stand-Up Meetings
 - Project work session
 
 ## Thursday, March 14
