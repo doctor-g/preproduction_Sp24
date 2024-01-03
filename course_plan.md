@@ -50,7 +50,7 @@ manage your time and scope your project is part of our work this semester.
 
 ## Learning Outcomes
 
-By the end of this course sequence, a student will be able to:
+By the end of this course, a student will be able to:
 
 - Identify and evaluate factors that contribute to the potential business
   success for videogames, such as choice of tools, platform, genre, and
