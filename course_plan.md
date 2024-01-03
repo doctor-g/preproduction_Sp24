@@ -10,11 +10,11 @@ Game Preproduction, Spring 2024, at Ball State University.
 - **Meetings**: Tuesday and Thursday, 12:30&ndash;3:15 in RB353
 - **Instructors**: 
     - [Paul Gestwicki](https://www.cs.bsu.edu/~pvgestwicki) (Office: RB479, see website for drop-in hours)
-    - [Antonio Sanders](https://www.bsu.edu/academics/collegesanddepartments/art/about-us/faculty-and-staff/faculty/sandersantonio) (Office: AJ401, drop-in hours TBD)
+    - [Antonio Sanders](https://www.bsu.edu/academics/collegesanddepartments/art/about-us/faculty-and-staff/faculty/sandersantonio) (Office: AJ261, drop-in hours TBD)
 - **Required Text**: Richard Lemarchand. _A Playful Production Process_. MIT Press. 2021.
 - **Prerequisite**: 
   - For CS390: CS215 or CS315 (CS315 is strongly recommended)
-  - For ART411: Your advisor will check this during the curriculum transition
+  - For ART440: ART341
 
 This is the first course in a three-course capstone experience for students in
 the Game Design & Development Concentration. At the end of this first class, you and
@@ -30,13 +30,10 @@ The catalog description for CS390 follows:
 > prototype videogame ideas in order to discover practicable concepts. Form
 > multidisciplinary teams to build a publicly showcased vertical slice.
 
-The catalog description for ART411 was written for the traditional film
-concentration. The spirit of it is shared in this semester, although the specifics
-of game preproduction are not yet described in the catalog.
+The catalog description for ART4440 follows:
 
-> Introduces a variety of artistic development solutions to facilitate
-> large-scale project creation. Focuses on problem-solving, research,
-> organization, digital printing, and workflow. 
+> This course will focus on team-based game design from conceptualization,
+> design documentation, > planning, prototyping of games.
 
 
 ## Commitment
