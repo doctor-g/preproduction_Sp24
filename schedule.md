@@ -5,6 +5,22 @@
 This page contains the projected schedule for the semester. Alterations to the
 schedule will be discussed or announced in a meeting or via Canvas.
 
+### Exercises
+
+Most of our meeting days require you to prepare and present something.
+The work that goes into this, and the artifact that results, is the
+_exercise_. They are called &ldquo;exercises&rdquo; because they strengthen
+your preproduction skills. 
+Plan to submit a copy of your exercises on Canvas for formal evaluation
+by the professors.
+
+Part of the expectation for full participation credit is that you have the exercise
+completed. However, even if you miss this opportunity to participate, you still
+have the opportunity to complete and resubmit exercises. This ensures that
+all of you can have a reasonable expectation of shared experiences when it comes
+to collaborating on work. See the [course plan](course_plan.md) for policies
+around resubmission of exercises.
+
 ### Posters
 
 Many of your individual explorations will be presented in the form of a _poster_.
