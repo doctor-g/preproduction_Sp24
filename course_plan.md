@@ -1,4 +1,4 @@
-# Course Plan (DRAFT)
+# Game Preproduction Course Plan
 
 ## About
 
