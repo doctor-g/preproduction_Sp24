@@ -216,12 +216,14 @@ No studio meetings during Spring Break.
 - Project work session
 
 ## Thursday, March 14
+### Prepare
+- Complete a self- and peer-evaluation
 ### Meeting
 - Project work session
 
 ## Tuesday, March 19
 ### Prepare
-- A brief status report for the whole studio
+- A brief status report from each team for the whole studio
 ### Meeting
 - Present your status report
 - Project work session
@@ -232,12 +234,14 @@ No studio meetings during Spring Break.
 
 ## Tuesday, March 26
 ### Prepare
-- A brief status report for the whole studio
+- A brief status report from each team for the whole studio
 ### Meeting
 - Present your status report
 - Project work session
 
 ## Thursday, March 28
+### Prepare
+- Complete a self- and peer-evaluation
 ### Meeting
 - Project work session
 
@@ -284,5 +288,7 @@ Prepare a poster with your findings.
 - Present your pitches to the Games Advisory Board
 
 ## Thursday, April 25
+### Prepare
+- Complete a self- and peer-evaluation
 ### Meeting
 - Debrief and discussion
