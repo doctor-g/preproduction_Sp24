@@ -184,16 +184,14 @@ otherwise causing disruption impedes your learning as well as your classmates'.
 ### Exercises
 
 The semester will include many exercises that will help you understand game
-preproduction, especially during ideation in the first several weeks of the semester. Sometimes, work on these exercises starts in the studio, but most or all
-will require using your out-of-studio time for independent completion.
+preproduction, especially during ideation in the first several weeks of the
+semester. Sometimes, work on these exercises starts in the studio, but most or
+all will require using your out-of-studio time for independent completion.
 
-Learning from these exercises is a crucial part of our process, and so we are
-adopting a &ldquo;mastery learning&rdquo; evaluation process for your
-submissions. That is, you may resubmit your exercises as many times as necessary
-to demonstrate satisfactory understanding. In order to keep students and faculty
-from falling behind on our respective responsibilities, you are limited to one
-exercise resubmission per week, with the start of the week measured from 12:30
-on Tuesdays&mdash;our first meeting of each week.
+Learning from these exercises is a crucial part of our process. To help you
+learn from these exercises, you may resubmit exercises up to two times
+without penalty. The deadline for the first resubmission is one week after
+the original deadline, and the deadline for the second is a week after that.
 
 
 ### Completion
