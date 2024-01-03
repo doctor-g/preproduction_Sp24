@@ -223,7 +223,7 @@ from the recommendations.
 
 ## Tuesday, April 2
 ### Prepare
-- Review multiple pitch decks from the [Video Game Founder's Kit](https://heyglitch.notion.site/Public-Founder-s-Kit-959c43975b76400cb4d31452ea1ee08a). Conduct a genre
+- Review multiple pitch decks from the [Video Game Founder's Kit](https://heyglitch.notion.site/Public-Founder-s-Kit-959c43975b76400cb4d31452ea1ee08a) and/or [GameDiscoverCo Pitch Deck collection](https://plus.gamediscover.co/pitch-decks/). Conduct a genre
 analysis: consider carefully what is shown in these decks, how it is shown, and why.
 Prepare a poster with your findings.
 ### Meeting
