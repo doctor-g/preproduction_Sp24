@@ -2,7 +2,7 @@
 
 ## About
 
-This document provides the course plan (&ldquo;syllabus&rdquo;) for CS390/ART411 
+This document provides the course plan (&ldquo;syllabus&rdquo;) for CS390/ART440 
 Game Preproduction, Spring 2024, at Ball State University.
 
 ## Course Information
