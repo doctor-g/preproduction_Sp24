@@ -168,6 +168,10 @@ does not meet the criteria for a D receives an F.
 </tr>
 </table>
 
+Canvas fails to support alternative grading schemes. 
+Only use the information presented here to reflect on your
+course progress. Do not trust any summary data given by Canvas.
+
 ### Participation and Deadlines
 
 Each meeting is an opportunity to learn together.
