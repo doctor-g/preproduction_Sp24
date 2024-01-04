@@ -161,7 +161,7 @@ a "B".
 <td>Miss no more than two</td>
 <td>All but two draft or final elements are satisfactory</td>
 <td>Final peer evaluation is satisfactory</td>
-<td>Satisfactory</td>
+<td>Unsatisfactory</td>
 </tr>
 <tr>
 <th>D</th>
