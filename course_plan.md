@@ -122,10 +122,11 @@ are that the most charitable one is correct.
 
 ## Evaluation and Grades
 
-Your final grade is determined by your engagement with four aspects of the
+Your final grade is determined by your engagement with five aspects of the
 course according to the following table. Your letter grade in the course is the
 highest row for which you have satisfied all of the criteria, and a student who
 does not meet the criteria for a "D" receives an "F".
+Put another way, your course grade corresponds to the lowest achieved column.
 For example, if you meet all of the criteria in the "A" row except for one, 
 and you have earned the "B" level in that category, then your course grade is
 a "B". 
@@ -176,7 +177,6 @@ a "B".
 At the end of the semester, instructors may use partial fulfillment of rows to
 assign +/- grades. Don't let a failure in one column lead you to abandon work in
 another.
-
 
 Canvas fails to support alternative grading schemes. 
 Only use the information presented here to reflect on your
