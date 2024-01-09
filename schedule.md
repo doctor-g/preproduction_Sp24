@@ -104,6 +104,8 @@ from the recommendations.
 - Share posters
 - Start prototyping
 
+Reminder:  _[Global Game Jam!](https://globalgamejam.org/jam-sites/2024/ball-state-university) Friday, Jan 26, 5:00pm to Sunday, Jan 28, 5:00pm_
+
 ## Tuesday, Jan 30
 ### Policy
 - By the end of the prototype phase each student must have completed
