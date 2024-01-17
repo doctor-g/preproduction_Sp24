@@ -206,6 +206,9 @@ Learning from these exercises is a crucial part of our process. To help you
 learn from these exercises, you may resubmit exercises up to two times
 without penalty. The deadline for the first resubmission is one week after
 the original deadline, and the deadline for the second is a week after that.
+When you resubmit work, please include a summary of changes in the submission
+comments on Canvas. This makes it much easier for us to understand what changed
+and why.
 
 
 ### Completion
