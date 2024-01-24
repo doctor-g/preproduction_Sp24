@@ -66,9 +66,9 @@ from the recommendations.
 ## Thursday, Jan 11
 ### Prepare
 - Read Lemarchand Introduction, Chapters 1&dash;2 (Getting Started, Blue Sky Thinking: ~12 pages)
-- Complete the automatic writing, mind map, or another approved blue-sky
-  ideation technique for a minimum of 20 minutes. Prepare a poster
-  summarizing your findings.
+- Complete the automatic writing or mind map ideation technique, focusing on what kind of game you want to make this semester.
+  Engage with the exercise for a minimum of 20 minutes.
+  Prepare a poster summarizing your findings.
 ### Meeting
 - Present posters
 - Brainstorming following Lemarchand's process
@@ -76,21 +76,24 @@ from the recommendations.
 ## Tuesday, Jan 16
 ### Prepare
 - Read Lemarchand 3&ndash;4 (Research, Game Prototyping: ~14 pages)
-- Do two different forms of research from the reading based on our brainstorming
-  results. Prepare a poster summarizing your results
+- Choose a topic from our brainstorming.
+  Do two different forms of research from the reading on this topic.
+  Prepare a poster summarizing your results
 ### Meeting
 - Present research notes
 - Begin physical prototypes based on research
 
 ## Thursday, Jan 18
 ### Prepare
-- Complete a physical prototype, based on research, in approximately three hours
+- Use your research to develop a design question that you can answer with a physical prototype.
+- Complete a physical prototype, based on your research, in approximately three hours
 ### Meeting
-- Demonstrate prototypes
+- Demonstrate your prototypes
 
 ## Tuesday, Jan 23
 ### Prepare
 - Read Lemarchand 5 (Digital Prototyping: 11 pages)
+- Choose a design question from your research that you can answer with a digital prototype.
 - Prepare yourself for digital prototyping: prototyping tools, asset packs, etc.
 ### Meeting
 - Complete a one-hour digital prototype
