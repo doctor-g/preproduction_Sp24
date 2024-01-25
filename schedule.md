@@ -104,6 +104,7 @@ from the recommendations.
 - Read Lemarchand 6 (Communication: 9 pages)
 - Prepare a poster of the most important takeaway from the reading
 ### Meeting
+- Each group shares the outcomes from their Tuesday prototyping
 - Share posters
 - Start prototyping
 
