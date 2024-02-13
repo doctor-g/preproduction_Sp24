@@ -165,6 +165,7 @@ Reminder:  _[Global Game Jam!](https://globalgamejam.org/jam-sites/2024/ball-sta
 - Complete the experience and design goals for the project
 ### Meeting
 - Present and critique experience and design goals
+- Talk about how to use Slack
 - Discuss expectations for the vertical slice
 - Continue preproduction
 
