@@ -172,8 +172,9 @@ Reminder:  _[Global Game Jam!](https://globalgamejam.org/jam-sites/2024/ball-sta
 
 ## Tuesday, Feb 20
 ### Prepare
-- Read Lemarchand 9&ndash;14 
-    - What is a Vertical Slice?
+- Read Lemarchand 9&ndash;14
+    - Gaining Control of the Process (~5 pages)
+    - What is a Vertical Slice? (~14 pages)
     - Making the Vertical Slice (~12 pages)
     - Playtesting (~15 pages)
     - Concentric Development (~14 pages)
