@@ -188,6 +188,7 @@ Reminder:  _[Global Game Jam!](https://globalgamejam.org/jam-sites/2024/ball-sta
 
 ## Thursday, Feb 22
 ### Prepare
+- Finalize core loop, character, camera, and control
 - Read Lemarchand 16&ndash;18 and optionally 15
     - Against Crunch (~4 pages, optional)
     - Story Structure for Game Designers (~10 pages)
