@@ -195,7 +195,8 @@ Reminder:  _[Global Game Jam!](https://globalgamejam.org/jam-sites/2024/ball-sta
     - Writing a Game Design Macro Chart (~13 pages)
 - Prepare a poster expressing one or more key points about the macro chart
 ### Meeting
-- Present posters
+- Teams briefly present core loop, character, camera, and control (digital)
+- Present posters from the reading (analog)
 - Discuss scheduling and preproduction expectations
 - Continue preproduction
 
