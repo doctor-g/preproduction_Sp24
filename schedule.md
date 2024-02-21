@@ -206,7 +206,8 @@ Reminder:  _[Global Game Jam!](https://globalgamejam.org/jam-sites/2024/ball-sta
 - Submit a platform report, reflecting the early-project
   decisions described in Lemarchand 11. This must address the following:
   - Game Engine selection with rationale tied to your project goals and the 3 C's
-  - Version control system selection and rationale, including commit message conventions
+  - Version control system selection and rationale, including commit message conventions.
+    Perforce Helix is recommended for Unreal Engine projects.
   - Project conventions, the recommended ones being [Godot's](https://gdquest.gitbook.io/gdquests-guidelines/godot-gdscript-guidelines)
     with [GDQuest's](https://gdquest.gitbook.io/gdquests-guidelines/godot-gdscript-guidelines) for Godot Engine games
     and [Gamemakin Style Guide](https://github.com/Allar/ue5-style-guide) for Unreal Engine games.
