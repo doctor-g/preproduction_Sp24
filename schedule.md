@@ -186,7 +186,7 @@ Reminder:  _[Global Game Jam!](https://globalgamejam.org/jam-sites/2024/ball-sta
 - Continue preproduction
 
 
-## Thursday, Feb 22
+## Thursday, Feb 22   
 ### Prepare
 - Finalize core loop, character, camera, and control
 - Read Lemarchand 16&ndash;18 and optionally 15
@@ -199,11 +199,19 @@ Reminder:  _[Global Game Jam!](https://globalgamejam.org/jam-sites/2024/ball-sta
 - Teams briefly present core loop, character, camera, and control (digital)
 - Present posters from the reading (analog)
 - Discuss scheduling and preproduction expectations
-- Continue preproduction
-
+- Finalize decisions required for your platform report
 
 ## Tuesday, Feb 27
 ### Prepare
+- Submit a platform report, reflecting the early-project
+  decisions described in Lemarchand 11. This must address the following:
+  - Game Engine selection with rationale tied to your project goals and the 3 C's
+  - Version control system selection and rationale, including commit message conventions
+  - Project conventions, the recommended ones being [Godot's](https://gdquest.gitbook.io/gdquests-guidelines/godot-gdscript-guidelines)
+    with [GDQuest's](https://gdquest.gitbook.io/gdquests-guidelines/godot-gdscript-guidelines) for Godot Engine games
+    and [Gamemakin Style Guide](https://github.com/Allar/ue5-style-guide) for Unreal Engine games.
+    - Include a policy for where "raw" assets are stored. For Unreal Engine projects, it is recommended to use a "Raw" folder
+      outside of the project folder. 
 - Read Lemarchand 19&ndash;21
     - Scheduling (~16 pages, you may skip the section about burndown charts)
     - Milestone Reviews (~12 pages)
