@@ -224,6 +224,10 @@ Reminder:  _[Global Game Jam!](https://globalgamejam.org/jam-sites/2024/ball-sta
 - Continue preproduction
 
 ## Thursday, Feb 29
+### Policy
+- From today onward, full studio participation includes being registered on Slack,
+  being connected to your team's channel there, and processing Slack threads at least
+  once per workday (usually weekdays, depending on your situation).
 ### Meeting
 - Project work session
 
