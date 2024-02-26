@@ -188,7 +188,15 @@ Reminder:  _[Global Game Jam!](https://globalgamejam.org/jam-sites/2024/ball-sta
 
 ## Thursday, Feb 22   
 ### Prepare
-- Finalize core loop, character, camera, and control
+- Agree on direction for core loop, character, camera, and control, and
+  write a report that covers these four areas.
+  The report should indicate whether the team considers a decision
+  to be final or provisional, and if provisional, what steps are planned
+  to move toward finalization.
+  This will highlight the viable options and the immediate design questions
+  in need of prototyping.
+  Final decisions will be manifest in the vertical slice.
+  
 - Read Lemarchand 16&ndash;18 and optionally 15
     - Against Crunch (~4 pages, optional)
     - Story Structure for Game Designers (~10 pages)
