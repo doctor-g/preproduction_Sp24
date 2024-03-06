@@ -203,12 +203,28 @@ semester. Sometimes, work on these exercises starts in the studio, but most or
 all will require using your out-of-studio time for independent completion.
 
 Learning from these exercises is a crucial part of our process. To help you
-learn from these exercises, you may resubmit exercises up to two times
-without penalty. The deadline for the first resubmission is one week after
-the original deadline, and the deadline for the second is a week after that.
-When you resubmit work, please include a summary of changes in the submission
-comments on Canvas. This makes it much easier for us to understand what changed
-and why.
+learn from these exercises, you may resubmit each exercise up to two times
+without penalty. Resubmissions must always have a submission comment 
+on Canvas summarizing the changes so that we understand what changed and why.
+The final day for resubmissions is April&nbsp;16. 
+Additional constraints on resubmissions may apply based on the nature of the exercise,
+as described below.
+
+- Readings: Many readings involve creating posters to share your observations
+and insights with your classmates. Since the opportunity to share this in the
+discussion has passed, a resubmission should instead be a report covering
+one or more important topics you gleaned from the reading. This should be
+three to five paragraphs and explain why you think this reading is important
+for the current state of your project.
+
+- Prototypes: During ideation, you are responsible for creating several
+prototypes. The preproduction that follows ideation involves concentric development
+of what will become your vertical slice. Resubmissions of these exercises
+need to demonstrate that you understand the role of prototyping during
+preproduction. The resubmission protocol is that you will identify a design
+question within your current project, create a prototype to address the
+question, and then submit a report that answers the prototyping questions
+from the reading (p23).
 
 
 ### Completion
