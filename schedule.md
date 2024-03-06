@@ -244,12 +244,14 @@ No studio meetings during Spring Break.
 
 ## Tuesday, March 12
 ### Meeting
-- Project work session
+- Discussion of the daily work of preproduction
+- Project work session including work prioritization and its informal reporting
 
 ## Thursday, March 14
 ### Prepare
 - Complete a self- and peer-evaluation
 ### Meeting
+- Discussion of project commercialization possibilities and constraints
 - Project work session
 
 ## Tuesday, March 19
