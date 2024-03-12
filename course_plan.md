@@ -226,6 +226,52 @@ question within your current project, create a prototype to address the
 question, and then submit a report that answers the prototyping questions
 from the reading (p23).
 
+### Self- and Peer-Evaluations
+
+<table>
+<tr>
+<th>Requirement</th>
+<th>Satisfactory (3)</th>
+<th>Probationary (2)</th>
+<th>Unsatisfactory (1)</th>
+<th>Unacceptable (0)</th>
+</tr>
+<tr>
+<th>Commitment</th>
+    <td>Attended all scheduled meetings—including class meetings—or notified the team of absence.</td>
+    <td>Missed meetings, with notifications, with enough regularity to be problematic.</td>
+    <td>Missed some meetings without notifying the team.</td>
+    <td>Regularly missed meetings without notifying the team.</td>
+</tr>
+<tr>
+<th>Participation</th>
+    <td>Contributed to project goals and platform report and has integrated their work with the version control system.</td>
+    <td>Did not contribute to one of the following: project goals, platform report, version control integration.</td>
+    <td>Did not contribute to two of the following: project goals, platform report, version control integration.</td>
+    <td>Did not contribute to project goals, platform report, and version control integration.</td>
+</tr>
+<tr>
+<th>Communication</th>
+    <td>Clearly reports on what has been accomplished, what is in progress, and what stands in the way, thereby facilitating progress.</td>
+    <td>Sometimes is unclear about what has been done, what is in progress, and what stands in the way, creating minor impediments to progress.</td>
+    <td>Is regularly unclear about what has been done, what is in progress, and what stands in the way, creating significant impediments to progress.</td>
+    <td>Communication patterns directly disrupt team progress.</td>
+</tr>
+<tr>
+<th>Contributions</th>
+    <td>Contributions have helped move the team toward its goals or toward understanding needs for goal revision.</td>
+    <td>Has made contributions, but they have not clearly moved the team toward its goals or understanding the need for goal revision.</td>
+    <td>Has not made significant contributions.</td>
+    <td>Has made no contributions.</td>
+</tr>
+<tr>
+<th>Attitude and Leadership</th>
+    <td>Listens to, shares with, and supports efforts of others, and actively tries to keep the team together.</td>
+    <td>Listens to, shares with, and supports the efforts of others.</td>
+    <td>Frequently fails to listen, share, or support teammates.</td>
+    <td>Displays an antagonism that inhibits team success.</td>
+</tr>
+</table>
 
 ### Completion
 
