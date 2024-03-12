@@ -228,6 +228,10 @@ from the reading (p23).
 
 ### Self- and Peer-Evaluations
 
+Periodically during preproduction, you will complete a self- and peer-evaluation.
+You will have access to a form that you will complete once for yourself and once for
+each team member. It will look like the following.
+
 <table>
 <tr>
 <th>Requirement</th>
@@ -272,6 +276,26 @@ from the reading (p23).
     <td>Displays an antagonism that inhibits team success.</td>
 </tr>
 </table>
+
+We will report back to you the results of this evaluation by giving you the medians in each category.
+The peer evaluation will be considered _satisfactory_ as long as every median is at least 2.
+
+If you receive an unsatisfactory peer evaluation, then we want to help you and your team figure
+out how to overcome it. Within two working days of receiving your report, you can submit an
+_action plan_ to the instructors. 
+Our action plan format is inspired by [Fitzpatrick and Collins-Sussman](https://www.oreilly.com/library/view/team-geek/9781449329839/).
+The action plan must have the following sections:
+
+- Summary of what went wrong
+- The primary cause
+- Impact and damage assessment
+- A set of action items to fix the problem immediately
+- A set of action items to prevent the event from happening again
+- Lessons learned
+
+The action items must be expressed in a manner that is [specific, measurable, achievable, relevant, and time-bound](https://en.wikipedia.org/wiki/SMART_criteria). Each must have a deadline by which you propose to have them complete. Most action items should be attainable within a few working days at most; if you require more time, talk to the instructors about an individualized schedule. Otherwise, the expected window of time between the initial self-evaluation and its final submission and conclusion is one week.
+
+TODO: explain how to submit
 
 ### Completion
 
