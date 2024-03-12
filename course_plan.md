@@ -293,9 +293,10 @@ The action plan must have the following sections:
 - A set of action items to prevent the event from happening again
 - Lessons learned
 
-The action items must be expressed in a manner that is [specific, measurable, achievable, relevant, and time-bound](https://en.wikipedia.org/wiki/SMART_criteria). Each must have a deadline by which you propose to have them complete. Most action items should be attainable within a few working days at most; if you require more time, talk to the instructors about an individualized schedule. Otherwise, the expected window of time between the initial self-evaluation and its final submission and conclusion is one week.
+The action items must be expressed in a manner that is [specific, measurable, achievable, relevant, and time-bound](https://en.wikipedia.org/wiki/SMART_criteria). Each must have a deadline by which you propose to have them complete. Most action items should be attainable within a few working days at most; if you require more time, talk to the instructors about an individualized schedule. Otherwise, the expected window of time between the initial self-evaluation and its final submission and conclusion is one week. The instructors will respond to either approve your action plan or to negotiate revisions.
 
-TODO: explain how to submit
+If you are able to accomplish your action plan within the approved window, email a follow-up to the instructors,
+and we will consider your peer-evaluation to be satisfactory.
 
 ### Completion
 
