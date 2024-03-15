@@ -259,6 +259,7 @@ No studio meetings during Spring Break.
 - A brief status report from each team for the whole studio
 ### Meeting
 - Present your status report
+- Commericalization redux
 - Project work session
 
 ## Thursday, March 21
