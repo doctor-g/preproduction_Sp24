@@ -313,7 +313,7 @@ Prepare a poster with your findings.
 ## Thursday, April 18
 ### Prepare
 - Submit your final vertical slice, game design macro, and schedule
-- Finalize your presentation. In addition to the criteria we discussed on on April 4, your presentation must include an explicit statement of whether your team has envisioned the project as a commercial or noncommercial endeavor for next year's production.
+- Finalize your presentation. In addition to the criteria we discussed on on April&nbsp;2, your presentation must include an explicit statement of whether your team has envisioned the project as a commercial or noncommercial endeavor for next year's production.
 ### Meeting
 - Practice presentations
 
