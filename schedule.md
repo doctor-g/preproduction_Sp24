@@ -326,3 +326,8 @@ Prepare a poster with your findings.
 - Complete a self- and peer-evaluation
 ### Meeting
 - Debrief and discussion
+
+
+## Tuesday, April 30, Noon to 2:00 PM
+### Final Exam Slot
+- Meet in the studio to take the final exam.
