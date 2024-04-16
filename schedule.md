@@ -312,8 +312,9 @@ Prepare a poster with your findings.
 
 ## Thursday, April 18
 ### Prepare
-- Submit your final vertical slice, game design macro, and schedule
+- Submit your final vertical slice, game design macro, and schedule. Please submit before noon.
 - Finalize your presentation. In addition to the criteria we discussed on on April&nbsp;2, your presentation must include an explicit statement of whether your team has envisioned the project as a commercial or noncommercial endeavor for next year's production.
+- Send your slides to Dr. Gestwicki so that the presentation laptop can be prepared.
 ### Meeting
 - Practice presentations. We will use the same time constraints as the final presentations.
 
