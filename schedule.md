@@ -315,11 +315,12 @@ Prepare a poster with your findings.
 - Submit your final vertical slice, game design macro, and schedule
 - Finalize your presentation. In addition to the criteria we discussed on on April&nbsp;2, your presentation must include an explicit statement of whether your team has envisioned the project as a commercial or noncommercial endeavor for next year's production.
 ### Meeting
-- Practice presentations
+- Practice presentations. We will use the same time constraints as the final presentations.
 
 ## Tuesday, April 23
 ### Meeting
-- Present your pitches to the Games Advisory Board
+- Present your pitches to the Games Advisory Board. You will have at most ten minutes to present your pitch,
+  followed by at most five minutes for questions and answers.
 
 ## Thursday, April 25
 ### Prepare
