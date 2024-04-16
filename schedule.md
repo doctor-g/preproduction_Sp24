@@ -309,6 +309,7 @@ Prepare a poster with your findings.
 ## Tuesday, April 16
 ### Meeting
 - Project work session
+- Test your build on the presentation laptop
 
 ## Thursday, April 18
 ### Prepare
